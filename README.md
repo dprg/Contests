@@ -3,9 +3,10 @@ DPRG Club Contest assets
 
 This repo contains rule sets for DPRG contests.
 
+Note that rules source files are an OpenDocument Text format, which can be read and manipulated by Microsoft Word.  PDF versions are also included for easy reference by viewers.
 
 
-About DPRG
+# About DPRG
 
 Dallas Personal Robotics Group has been actively building robots for fun since 1984.
 
