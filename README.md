@@ -1,0 +1,2 @@
+# Contests
+Club Contest assets
