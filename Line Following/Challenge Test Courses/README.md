@@ -10,7 +10,7 @@ This test course directory contains a set of png images that can be used to gene
 | Test 2 dp  | 2'x4'  | $12.00  | Stains |
 | Test 3 dp  | 4'x5'  | $30.00  | Acute angle turn, Notches, Gate |
 
-All of the course inclued more elements than those listed in the purpose, such as line width changes. It is assumed that the competitor can successfully complete an example of the DPRG's advanced line following course.
+All of the courses inclued more elements than those listed in the purpose, such as line width changes. It is assumed that the competitor can successfully complete an example of the DPRG's advanced line following course.
 
 ### How to Generate a course:
 1. Open [https://stickersbanners.com/](https://stickersbanners.com/) in a browser. 
