@@ -1,7 +1,7 @@
 # Test Courses for Challenge Line Following 
 
 ### File contents:
-The test course directory contains a series of png images that can be used to generate vinyl practice courses. These png images suitable to be submitted to [https://stickersbanners.com/](https://stickersbanners.com/) without modification. The courses get progressively harder. Courses were authored by Doug Paradis.
+This test course directory contains a set of png images that can be used to generate vinyl practice courses. These png images are suitable to be submitted to [https://stickersbanners.com/](https://stickersbanners.com/) without modification. The courses get progressively harder. Courses were authored by Doug Paradis.
 
 ### There are 3 printable courses:
 |Course Name  | Size |Approx Cost| Purpose|
