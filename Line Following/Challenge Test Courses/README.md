@@ -6,7 +6,8 @@ This test course directory contains a set of png images that can be used to gene
 ### There are 3 printable courses:
 |Course Name  | Size |Approx Cost| Purpose|
 | :-------------: | :-------------: | :-------------: | :------------- |
-| Test 1 dp  | 3'x3'  | $13.50  | Black on White and White on Black Tiles, gap |
+| Test 0 dp  | 3'x3'  | $13.50  | Simple Black on White and White on Black Tiles |
+| Test 1 dp  | 3'x3'  | $13.50  | Black on White and White on Black Tiles, gap, 90 deg turn, line width |
 | Test 2 dp  | 2'x4'  | $12.00  | Stains |
 | Test 3 dp  | 4'x5'  | $30.00  | Acute angle turn, Notches, Gate |
 | Airplane Friendly Test Course  | varies | $42.00  | Maximum challenges / Fits in Checked Luggage / Configurable |
