@@ -37,7 +37,7 @@ You must make sure that the element squares (i.e., 12"x12" block) are aligned an
 6. Select the copied course. Use Object, Group to group your selection into a single group. This allows you to make a course that doesn't include the empty space along the outer edge of the course, saving money when the course is sent off to be made. It also preserves your course design that is located in the page, so that it can be modified into something new.
 7. Select File, Export png.   
    In the 'Export PNG' dialog (Shift+Ctrl+E)
-	- Click "Selection" to ensure that Inkscape will only export the selected objects.  
+	- Click the "Selection" tab to ensure that Inkscape will only export the selected objects.  
 	- The selection should be the single group of the copied course.
 	- Verify Image size - 150 dpi, and expected Width and Height to yield 1 foot squares
 	- Choose a Filename
