@@ -1,4 +1,4 @@
-# README Novice Course
+# README Advanced Course
 
 ### Note about source file contents:
 The source for this course is in svg format, created in Inkscape 0.92. The source file contains the elements used to construct an Advanced level course. These elements are:  
