@@ -29,7 +29,7 @@ The source file has an example 13' x 7' course set in the document page. This co
 
 You must make sure that the element squares (i.e., 12"x12" block) are aligned and snapped to the grid. It is best to zoom way in to verify that every element square is aligned and snapped to the grid. Making full scale prints on elements which are not well snapped to grid yields a poor quality print.
 
-### How to design a new Novice level course:
+### How to design a new Challenge level course:
 1. Open the source svg file.
 2. Use File, Document Properties (Shift+Ctrl+D) to set a custom size page. This should be one foot larger in both width and length of the desired course size. The reason for the extra foot is allow the index elements to be snapped to the grid.
 3. Make sure that the "snap to grid" icon in the right vertical toolbar is highlighted. This index looks like a graph grid and is 2nd from the bottom of the toolbar.
