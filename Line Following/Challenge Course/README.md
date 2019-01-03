@@ -6,18 +6,18 @@ The source for this course is in svg format, created in Inkscape 0.92. The sourc
 1. Straight 
 2. Curve 
 3. Double curve
-4. Offset line
+4. Offset line on any adjacent element (max. offset 1.5")
 5. 90 deg turn
 6. Gap (sometimes called segmented) S curve
 7. 6 inch gap
 8. Notch
 9. Acute angle
-10. Bumps
+10. Bumps    (popcycle sticks glued to course using pattern on element)
 11. Intersection
 12. Gate
-13. Line color change
-14. Stains
-15. Line width change
+13. Line color change (black on white or white on black, on any element)
+14. Stains (20%, 40%, 60$, 80% - note: robot must follow line not stain edge)
+15. Line width change (0.375",0.75", 1.5" on any element)
 
 **Note:** Curves have a 6" radius.
 
