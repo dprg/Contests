@@ -28,8 +28,9 @@ You must make sure that the element squares (i.e., 12"x12" block) are aligned an
 3. Make sure that the "snap to grid" icon in the right vertical toolbar is highlighted. This index looks like a graph grid and is 2nd from the bottom of the toolbar.
 4. Use Ctrl+c to copy an element and move the cursor to the place that you wish to place the element in the document page.
 5. Use Ctrl+v to paste a copy of the element. Make sure that the element is snapped to the grid.
-6. It is best to place the indexes around the side of the actual course first.
-7. Repeat steps 4 and 5 until the course layout is complete.
+6. Rotate the placed element as desired.
+7. It is best to place the indexes around the side of the actual course first.
+8. Repeat steps 4 through 6 until the course layout is complete.
 
 
 
