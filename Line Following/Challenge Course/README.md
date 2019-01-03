@@ -16,7 +16,7 @@ The source for this course is in svg format, created in Inkscape 0.92. The sourc
 11. Intersection
 12. Gate
 13. Line color change (black on white or white on black, on any element)
-14. Stains (20%, 40%, 60$, 80% - note: robot must follow line not stain edge)
+14. Stains (20%, 40%, 60%, 80% - note: robot must follow line not stain edge)
 15. Line width change (0.375",0.75", 1.5" on any element)
 
 **Note:** Curves have a 6" radius.
