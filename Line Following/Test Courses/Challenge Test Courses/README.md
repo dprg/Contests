@@ -13,6 +13,8 @@ This test course directory contains a set of png images that can be used to gene
 | Airplane Friendly Test Course  | varies | $42.00  | Maximum challenges / Fits in Checked Luggage / Configurable |
 | Challenge Course 7x9 subset  | 7' x 9'  | $94.50  | Nearly as challenging / but smaller - area rug size |
 
+Courses can be previewed by clicking on the png file in the directory.
+
 The courses may include additional test elements that are not listed in the purpose, such as line width changes. It is assumed that the competitor can successfully complete an example of the DPRG's advanced line following course.
 
 ### How to print a course:
