@@ -8,6 +8,7 @@ This test course directory contains a set of png images that can be used to gene
 | :-------------: | :-------------: | :-------------: | :------------- |
 | Test 1 dp  | 3'x4'  | $18.00  | All Advanced elements |
 
+Courses can be previewed by clicking on the png file in the directory.
 
 It is assumed that the competitor can successfully complete an example of the DPRG's novice line following course.
 
