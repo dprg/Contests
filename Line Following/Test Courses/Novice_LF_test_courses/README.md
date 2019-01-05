@@ -9,6 +9,7 @@ This test course directory contains a set of png images that can be used to gene
 | Test 1 dp  | 2'x3'  | $9.00  | Simple Oval course |
 | Test 2 dp  | 3'x4'  | $18.00  | More complex course with double curve element |
 
+Courses can be previewed by clicking on the png file.
 
 ### How to print a course:
 1. Open [https://stickersbanners.com/](https://stickersbanners.com/) in a browser. 
