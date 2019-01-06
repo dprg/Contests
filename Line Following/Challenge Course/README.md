@@ -31,7 +31,7 @@ You must make sure that the element squares (i.e., 12"x12" block) are aligned an
 
 ### How to design a new Challenge level course:
 1. Open the source svg file.
-2. Use File, Document Properties (Shift+Ctrl+D) to set a custom size page. This should be one foot larger in both width and length of the desired course size. The reason for the extra foot is allow the index elements to be snapped to the grid.
+2. Use File, Document Properties (Shift+Ctrl+D) to set a custom size page. This should be two feet larger in both width and length of the desired course size. The reason for the extra two feet is allow the index elements to be added and snapped to the grid. Note: One of these added feet will be removed when the course is prepared for printing.
 3. Make sure that the "snap to grid" icon in the right vertical toolbar is highlighted. This index looks like a graph grid and is 2nd from the bottom of the toolbar.
 4. Use Ctrl+c to copy an element and move the cursor to the place that you wish to place the element in the document page.
 5. Use Ctrl+v to paste a copy of the element. Make sure that the element is snapped to the grid.
