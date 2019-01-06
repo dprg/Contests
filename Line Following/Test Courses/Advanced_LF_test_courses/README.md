@@ -7,6 +7,7 @@ This test course directory contains a set of png images that can be used to gene
 |Course Name  | Size |Approx Cost| Purpose|
 | :-------------: | :-------------: | :-------------: | :------------- |
 | Test 1 dp  | 3'x4'  | $18.00  | All Advanced elements |
+| Test 1a dp | 2'x4'  | $12.00  | Same as Test 1 without 6" extra buffer on edge - trade off on cost vs. recovery room for robot|
 
 Courses can be previewed by clicking on the png file in the directory.
 
