@@ -3,7 +3,7 @@
 ### File contents:
 This test course directory contains a set of png images that can be used to generate vinyl practice courses. These png images are suitable for submission to [https://stickersbanners.com/](https://stickersbanners.com/) without modification. The courses get progressively harder. Courses were authored by Doug Paradis.
 
-### There are several printable test courses:
+### Available printable test courses:
 |Course Name  | Size |Approx Cost| Purpose|
 | :-------------: | :-------------: | :-------------: | :------------- |
 | Test 1 dp  | 3'x4'  | $18.00  | All Advanced elements |
