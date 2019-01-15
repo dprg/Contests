@@ -1,6 +1,6 @@
-# README Novice Course
+# Line Following Information
 
-### Note about source file contents:
+### Repository directories:
 The source for this course is in svg format, created in Inkscape 0.92. The source file contains the elements used to construct a Novice level course. These elements are:  
 
 1. Straight 
