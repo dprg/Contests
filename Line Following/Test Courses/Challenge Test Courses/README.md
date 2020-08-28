@@ -24,4 +24,4 @@ The courses may include additional test elements that are not listed in the purp
 4. Click on the "Date Due" box and enter a date in the near future.
 5. Submit the order.
 
-The banner maker (stickersbanners.com) will email conformation of the order. They will also send you a separate email with a small proof.jeg file attached to approve before starting the order. If you use the png files, in this repository directory you should have no issues. 
+The banner maker (stickersbanners.com) will email confirmation of the order. They will also send you a separate email with a small proof.jeg file attached to approve before starting the order. If you use the png files, in this repository directory you should have no issues. 
