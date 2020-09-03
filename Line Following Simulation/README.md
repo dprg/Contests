@@ -7,4 +7,4 @@ An editable copy of DPRG's Line Following Simulation competition rules is availa
 
 __The simulator is evolving and will be different for the competition.__
     
-Also included in the sub-directory "CompetitionLFS" is a snapshot of the competition version of the Line Following Simulator (LFS) originally authored by Ron Grant with collaboration by Will Kulne. This version of the LFS is used in the competition.
+Also included in the sub-directory "CompetitionLFS" is a snapshot of the competition version of the Line Following Simulator (LFS) originally authored by Ron Grant with collaboration by Will Kulne. This version of the LFS will not be used in the competition (the simulator is evolving), however it is adequate to begin testing of your line following robot and exploring new possibilities.
